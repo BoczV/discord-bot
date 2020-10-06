@@ -132,3 +132,5 @@ xkit==0.0.0
 yarl==1.6.0
 zipp==0.6.0
 zope.interface==4.3.2
+discord~=1.0.1
+python-dotenv~=0.14.0
